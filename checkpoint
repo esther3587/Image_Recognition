@@ -1,2 +1,0 @@
-model_checkpoint_path: "image_classification"
-all_model_checkpoint_paths: "image_classification"
